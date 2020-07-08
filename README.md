@@ -20,7 +20,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/cristianmenguer/github-explorer?color=%235636D3">
 </p>
 
-## A ReactJS app for exploring github repositories and issues
+<h2 align="center">A ReactJS app for exploring github repositories and issues</h2>
 
 <hr />
 
