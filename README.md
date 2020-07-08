@@ -20,11 +20,11 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/cristianmenguer/github-explorer?color=%235636D3">
 </p>
 
-# A ReactJS app for exploring github repositories and issues
+## A ReactJS app for exploring github repositories and issues
 
 <hr />
 
-## Features
+### Features
 
 A React.js app built to get repositories and its issues from Github!
 
@@ -34,21 +34,21 @@ A React.js app built to get repositories and its issues from Github!
 - **Axios** — Promise based HTTP client for the browser and node.js
 - **Lint** — ESlint/Prettier/Editor Config
 
-## Dependencies
+### Dependencies
 
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
-## Getting started
+### Getting started
 
 1. Clone this repo using `git clone https://github.com/cristianmenguer/github-explorer.git`.
 2. Move to the appropriate directory: `cd github-explorer`.<br />
 3. Run `yarn install` to install dependencies.<br />
 4. Run `yarn start`, it will open the browser when ready.
 
-## Contributing
+### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
