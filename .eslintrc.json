@@ -21,6 +21,13 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "react/jsx-one-expression-per-line": "off",
+        "@typescript-eslint/explicit-function-return-type": [
+            "error",
+            {
+                "allowExpressions": true
+            }
+        ],
         "indent": [
             "error",
             4
