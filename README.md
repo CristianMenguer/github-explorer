@@ -18,7 +18,7 @@ A React.js app built to get repositories and its issues from Github!
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/cristianmenguer/github-explorer.git`
+1. Clone this repo using `git clone https://github.com/cristianmenguer/github-explorer.git`.
 2. Move to the appropriate directory: `cd github-explorer`.<br />
 3. Run `yarn install` to install dependencies.<br />
 4. Run `yarn start`, it will open the browser when ready.
