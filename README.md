@@ -1,3 +1,5 @@
+# A ReactJS app for exploring github repositories and issues
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianmenguer/github-explorer?color=%FF9000">
 
@@ -17,8 +19,6 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/cristianmenguer/github-explorer?color=%235636D3">
 </p>
-
-# A ReactJS app for exploring github repositories and issues
 
 <hr />
 
