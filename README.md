@@ -4,7 +4,7 @@
 
 ## Features
 
-A React.js API built to get repositories and its issues from Github with all the latest tools and best practices in development!
+A React.js app built to get repositories and its issues from Github!
 
 - **ReactJS** — JavaScript library for building user interfaces
 - **TypeScript** — Typed superset of JavaScript that compiles to plain JavaScript
