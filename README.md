@@ -1,3 +1,23 @@
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianmenguer/github-explorer?color=%FF9000">
+
+  <a href="https://www.linkedin.com/in/danilo-de-sousa-97594b187/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Cristian%20Menguer-orange">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cristianmenguer/github-explorer?color=%235636D3">
+
+  <a href="https://github.com/cristianmenguer/github-explorer/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cristianmenguer/github-explorer?color=%235636D3">
+  </a>
+
+  <a href="https://github.com/cristianmenguer/github-explorer/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/cristianmenguer/github-explorer?color=%235636D3">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/cristianmenguer/github-explorer?color=%235636D3">
+</p>
+
 # A ReactJS app for exploring github repositories and issues
 
 <hr />
