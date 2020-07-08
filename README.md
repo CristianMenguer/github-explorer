@@ -1,4 +1,4 @@
-# A ReactJS app for explorer github repositories and issues
+# A ReactJS app for exploring github repositories and issues
 
 <hr />
 
