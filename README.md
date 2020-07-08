@@ -1,6 +1,7 @@
 <!-- <h1 align="center">Github Explorer</h1> -->
 <div align="center"><img align="center" src="src/assets/logo.svg" /></div>
 <br />
+<br />
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianmenguer/github-explorer?color=%FF9000">
