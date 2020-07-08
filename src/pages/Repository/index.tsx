@@ -106,8 +106,8 @@ const Repository: React.FC = () => {
                         <a
                             key={issue.id}
                             href={issue.html_url}
-                            rel='noreferrer'
-                            target="_blank" >
+                            // eslint-disable-next-line
+                            rel='noreferrer' target="_blank" >
                             <div>
                                 <strong>{issue.title}</strong>
                                 <p>{issue.user.login}</p>
